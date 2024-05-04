@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.xmoj-bbs.tech
   # baseUrl: /upptime
-  logoUrl: https://xmoj-bbs.tech/favicon.ico
+  logoUrl: https://web.xmoj-bbs.tech/favicon.ico
   name: 小明的OJ增强脚本状态检查
   introTitle: "小明的OJ增强脚本状态检查"
   introMessage: 欢迎来到小明的OJ增强脚本状态检查
