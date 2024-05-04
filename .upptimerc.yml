@@ -5,12 +5,21 @@ repo: upptime # The name of this repository
 sites:
   - name: API
     url: https://api.xmoj-bbs.tech
+    assignees:
+      - PythonSmall-Q
+      - boomzero
   - name: 图床
     slug: picture
     url: https://assets.xmoj-bbs.tech
+    assignees:
+      - PythonSmall-Q
+      - boomzero
   - name: Main Website
     slug: main
     url: https://www.xmoj-bbs.tech
+    assignees:
+      - PythonSmall-Q
+      - boomzero
   - name: 小明的OJ
     slug: xmoj
     url: https://xmoj.tech
@@ -18,17 +27,20 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status-test.xmoj-bbs.tech
-  baseUrl: /upptime
+  cname: status.xmoj-bbs.tech
+  # baseUrl: /upptime
   logoUrl: https://xmoj-bbs.tech/favicon.ico
   name: 小明的OJ增强脚本状态检查
   introTitle: "小明的OJ增强脚本状态检查"
   introMessage: 欢迎来到小明的OJ增强脚本状态检查
+  skipDeleteIssues: true
   navbar:
     - title: Status
       href: /
     - title: Main Site
       href: https://xmoj-bbs.tech
+    - title: 小明的OJ
+      href: https://xmoj.tech
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
