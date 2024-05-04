@@ -42,5 +42,7 @@ status-website:
     - title: 小明的OJ
       href: https://xmoj.tech
 
+  i18n:
+    footer: Made by love from XMOJ-Script-dev, template from upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
