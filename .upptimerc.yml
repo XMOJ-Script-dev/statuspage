@@ -25,12 +25,10 @@ status-website:
   introTitle: "小明的OJ增强脚本状态检查"
   introMessage: 欢迎来到小明的OJ增强脚本状态检查
   navbar:
-    - title: 状态
+    - title: Status
       href: /
-    - title: 主页
+    - title: Main Site
       href: https://xmoj-bbs.tech
-    - title: 小明的OJ
-      href: https://xmoj.tech
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
