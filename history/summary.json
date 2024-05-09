@@ -58,7 +58,7 @@
     "url": "https://xmoj.tech",
     "icon": "https://icons.duckduckgo.com/ip3/xmoj.tech.ico",
     "slug": "xmoj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 2847,
     "timeMonth": 2847,
     "timeYear": 2847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   }
 ]
