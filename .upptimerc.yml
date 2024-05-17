@@ -41,8 +41,38 @@ status-website:
       href: https://xmoj-bbs.tech
     - title: 小明的OJ
       href: https://xmoj.tech
-
   i18n:
-    footer: Made by love from XMOJ-Script-dev, template from upptime
+    activeIncidents: 当前事故
+    allSystemsOperational: 所有系統运行正常
+    incidentReport: "事故 #$NUMBER 报告 →"
+    incidentTitle: 事故 $NUMBER 详情
+    incidentDetails: 事故详情
+    incidentFixed: 已修复
+    incidentOngoing: 进行中
+    incidentOpenedAt: 开始于
+    incidentClosedAt: 修复于
+    incidentViewOnGitHub: 在 GitHub 上查看并订阅
+    incidentBack: ← 返回所有事故
+    pastIncidents: 过去事故
+    liveStatus: 实时状态
+    overallUptime: "整体运行时间：$UPTIME"
+    overallUptimeTitle: 整体运行时间
+    averageResponseTime: "平均响应时间：$TIMEms"
+    averageResponseTimeTitle: 平均响应时间
+    sevenDayResponseTime: 七天响应时间
+    responseTimeMs: 响应时间（毫秒）
+    up: 正常
+    down: 故障
+    degraded: 降級
+    ms: 毫秒
+    loading: 載入中
+    navGitHub: GitHub
+    rateLimitExceededTitle: 超出速率限制
+    errorTitle: 发生错误
+    duration24H: 24小時
+    duration7D: 7天
+    duration30D: 30天
+    duration1Y: 1年
+    durationAll: 所有
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
