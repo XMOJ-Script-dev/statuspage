@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 164,
-    "timeWeek": 125,
-    "timeMonth": 158,
-    "timeYear": 235,
+    "time": 234,
+    "timeDay": 139,
+    "timeWeek": 128,
+    "timeMonth": 153,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 142,
-    "timeWeek": 111,
-    "timeMonth": 121,
+    "timeDay": 159,
+    "timeWeek": 114,
+    "timeMonth": 123,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 159,
-    "timeWeek": 132,
-    "timeMonth": 139,
+    "timeDay": 152,
+    "timeWeek": 136,
+    "timeMonth": 141,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmoj.tech.ico",
     "slug": "xmoj",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2939,
-    "timeDay": 2563,
-    "timeWeek": 2784,
-    "timeMonth": 2943,
-    "timeYear": 2939,
-    "dailyMinutesDown": {
-      "2024-06-19": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2942,
+    "timeDay": 2770,
+    "timeWeek": 2755,
+    "timeMonth": 2905,
+    "timeYear": 2942,
+    "dailyMinutesDown": {}
   }
 ]
